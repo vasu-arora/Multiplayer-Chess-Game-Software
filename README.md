@@ -1,2 +1,2 @@
-# Chess
-A chess game in c++ where you can either play against the computer or in multiplayer mode.
+# Multiplayer-Chess-Game-Software
+A multiplayer chess game software developed in C++. Graphics.h library was used for front-end graphics.
